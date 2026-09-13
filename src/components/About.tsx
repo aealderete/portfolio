@@ -10,11 +10,10 @@ export default function About() {
                 <div id="writing-container">
                     <div id="heading-container" className="text-secondary-color flex flex-col gap-4 mb-6">
                         <h1 id="about-me" className="text-6xl font-bold whitespace-nowrap text-secondary-color">Hello,</h1>
-                        <p id="paragraph" className="text-3xl text-gray-700">My name's Aleksander Alderete. I'm a passionate developer with a drive
-                            to solve difficult problems with creative solutions. As a new graduate of computer science
-                            with practice in various tools and paradigms, I'm constantly seeking new opportunities to
-                            grow and collaborate. Always eager to push myself, I'm excited to test new boundaries and
-                            use my skills for innovative companies and projects.
+                        <p id="paragraph" className="text-3xl text-gray-700">My name's Aleksander Alderete. I am an IT Resource Analyst working
+                        at Ensign Services Inc. My day-to-day consists of working in a hybrid environment of Azure and Active Directory, as well
+                        as troubleshooting various user endpoint related issues such as computer/printer malfunctions. I operate primarily in Identity and Access Management, making
+                        sure the right users have the right access.
                         </p>
                         <div id="exp-edu-container" className="text-2xl flex mt-4 flex-wrap gap-y-10">
                             <div id="exp-container" className="flex flex-col flex-1">
@@ -25,9 +24,9 @@ export default function About() {
                                     <p id="dates-worked-1">2021-Present</p>
                                 </div>
                                 <div id="exp2" className="text-gray-700">
-                                    <h3 id="sub" className="text-3xl">Substitute Teacher</h3>
-                                    <p id="PVPUSD">PVPUSD</p>
-                                    <p id="dates-worked-1">2018-2022</p>
+                                    <h3 id="sub" className="text-3xl">IT Resource Analyst</h3>
+                                    <p id="PVPUSD">Ensign Services Incorporated</p>
+                                    <p id="dates-worked-1">Jan 2026-Current</p>
                                 </div>
                             </div>
                             <div id="edu-container" className="flex flex-col flex-1">
